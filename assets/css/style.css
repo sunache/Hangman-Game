@@ -1,0 +1,13 @@
+* {
+    font-family: 'Josefin Slab', serif;
+}
+h1, h2, h3 {
+    background: #2199E2;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.title, .box {
+    margin-bottom: 20px;
+
+}
